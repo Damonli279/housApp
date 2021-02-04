@@ -1,0 +1,17 @@
+
+
+.like_div{
+    padding: 0 10px;
+    background-color: #fff;
+
+}
+.like_div img{
+    width: 80px;
+    height: 80px;
+}
+.like_h3,.like_div p{
+    margin: 0;
+}
+.like_div_center{
+    height: 80px;
+}

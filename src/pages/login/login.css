@@ -1,0 +1,20 @@
+#login {
+    width: 100%;
+    height: 100%;
+}
+.logo_div{
+    display: flex;
+    justify-content: center;
+}
+.logo{
+    width: 150px;
+    height: 150px;
+    margin-top: 50px;
+}
+.login_ub{
+    position: fixed;
+    width: 100%;
+    line-height: 60px;
+    color: #ccc;
+    bottom: 0;
+}

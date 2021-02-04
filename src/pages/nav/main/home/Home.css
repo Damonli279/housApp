@@ -1,0 +1,39 @@
+
+.head_div{
+    background-color: #33A3F4;
+    height: 40px;
+    color: #fff;
+}
+.head_center{
+    width: 70%;
+    background-color: #fff;
+    border-radius: 30px;
+    color: #C7C7C7;
+    line-height: 30px;
+    padding: 0 10px;
+}
+.head_center img{
+    width: 20px;
+    height: 20px;
+    margin-right: 10px;
+}
+.map_img{
+    width: 30px;
+    height: 30px;
+}
+.wiki_tel{
+    background-color: #fff;
+    padding: 0 20px;
+}
+.wiki_tel h3{
+    color: #33A3F4;
+    margin: 0 20px;
+}
+.wiki_tel p{
+    color: #C7C7C7;
+}
+.h3{
+    margin: 0;
+    background-color: #fff;
+    padding: 10px 20px; 
+}
